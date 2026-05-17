@@ -15,10 +15,12 @@
   <a href="https://motifloom.com">Website</a> &nbsp;·&nbsp;
   <a href="https://motifloom.com/explore">Explore Maps</a> &nbsp;·&nbsp;
   <a href="https://motifloom.com/sign-up">Get Started</a> &nbsp;·&nbsp;
-  <a href="https://x.com/motifloom">Twitter</a>
+  <a href="https://x.com/motifloom">Twitter</a> &nbsp;·&nbsp;
+  <a href="https://bsky.app/profile/motifloom.com">Bluesky</a>
 </p>
 
 <p align="center">
+  <a href="https://www.producthunt.com/posts/motifloom"><img src="https://img.shields.io/badge/Product%20Hunt-Launch%20June%203-ff6154?style=flat-square&logo=producthunt&logoColor=white" alt="Product Hunt" /></a>
   <img src="https://img.shields.io/badge/status-live-22c55e?style=flat-square" />
   <img src="https://img.shields.io/badge/price-free-6366f1?style=flat-square" />
   <img src="https://img.shields.io/badge/platform-web%20·%20PWA-f59e0b?style=flat-square" />
@@ -96,6 +98,7 @@ Hosting     Hetzner Cloud 🇩🇪
 | 🌐 Website | [motifloom.com](https://motifloom.com) |
 | 🗺️ Explore | [motifloom.com/explore](https://motifloom.com/explore) |
 | 🐦 Twitter/X | [@motifloom](https://x.com/motifloom) |
+| 🦋 Bluesky | [@motifloom.com](https://bsky.app/profile/motifloom.com) |
 | 💼 LinkedIn | [MotifLoom](https://www.linkedin.com/company/motifloomhq) |
 | 📸 Instagram | [@motifloom](https://www.instagram.com/motifloom/) |
 | 🎯 Product Hunt | [MotifLoom](https://www.producthunt.com/products/motifloom) |
